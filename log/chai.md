@@ -19,19 +19,19 @@ This release also includes a variety of small bugfixes and documentation fixes. 
 
 This is a small documentation bug fix release - it adds extra metatags to each public method to allow us to generate the docs easier for the website.
 
-仅仅是少量的文档变更。
+仅仅是少量的文档修正。
 
 ## 3.4.1 / 2015-11-07
 
 This is a small documentation bug fix release - it just fixes a couple of issues with the documentation.
 
-仅仅是少量的文档变更。
+仅仅是少量的文档修正。
 
 ## 3.4.0 / 2015-10-21
 
 This release improves some confusing error messages, and adds some new assertions. Key points:
 
-这个版本改进了一些令人困惑的错误信息，并增加了一些新的断言方法。主要包括：
+这个版本改进了一些难以理解的错误信息，并增加了一些新的断言方法。主要包括：
 
 * Feature: New assertion: `expect(1).oneOf([1,2,3])` - for asserting that a given value is one of a set.
 * 特性：新增的断言方法：`expect(1).oneOf([1,2,3])`——用来断言一个给定值是否属于某个集合。
