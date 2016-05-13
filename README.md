@@ -8,4 +8,5 @@ Project | Latest Version | Remark
 ---|---|---
 Chai | [3.5.0](https://github.com/cssmagic/ChangeLog/issues/2) | [(v2 change log)](https://github.com/cssmagic/ChangeLog/issues/1)
 ES6-Promise | [3.2.0](https://github.com/cssmagic/ChangeLog/issues/3) | 
+Underscore | [1.8.3](https://github.com/cssmagic/ChangeLog/issues/4) | Since v1.6
 ...|
