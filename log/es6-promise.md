@@ -77,7 +77,7 @@ original: "https://github.com/stefanpenner/es6-promise/blob/master/CHANGELOG.md"
 
 * ? (see the commit log)
 
-作者偷懒了，没有写变更记录，但其实这里有个坑：从这个版本开始，脚本加载时就会自动打上补丁，不需要手动调用 `.polyfill()` 方法了。这属于行为变更，只升次版本号也是醉了。
+（译注：作者偷懒了，没有写变更记录，但其实这里有个坑：从这个版本开始，脚本加载时就会自动打上补丁，不需要手动调用 `.polyfill()` 方法了。这属于行为变更，只升次版本号也是醉了。）
 
 ## 2.0.0
 
