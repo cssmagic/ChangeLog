@@ -9,7 +9,7 @@ original: "http://underscorejs.org/#changelog"
 
 ## 1.8.3
 
-_April 2, 2015_ — [Diff](https://github.com/jashkenas/underscore/compare/1.8.2...1.8.3) — [Docs](https://cdn.rawgit.com/jashkenas/underscore/1.8.3/index.html)
+_2015-04-02_ — [Diff](https://github.com/jashkenas/underscore/compare/1.8.2...1.8.3) — [Docs](https://cdn.rawgit.com/jashkenas/underscore/1.8.3/index.html)
 
 * Adds an `_.create` method, as a slimmed down version of `Object.create`.
 * [新增] 增加了一个 `_.create` 方法，相当于 `Object.create` 方法的精简版。
@@ -18,7 +18,7 @@ _April 2, 2015_ — [Diff](https://github.com/jashkenas/underscore/compare/1.8.2
 
 ## 1.8.2
 
-_Feb. 22, 2015_ — [Diff](https://github.com/jashkenas/underscore/compare/1.8.1...1.8.2) — [Docs](https://cdn.rawgit.com/jashkenas/underscore/1.8.2/index.html)
+_2015-02-22_ — [Diff](https://github.com/jashkenas/underscore/compare/1.8.1...1.8.2) — [Docs](https://cdn.rawgit.com/jashkenas/underscore/1.8.2/index.html)
 
 * Restores the previous old-Internet-Explorer edge cases changed in 1.8.1.
 * [变更] 回滚了 1.8.1 版针对旧版 IE 的边缘情况所作的那个变更。
@@ -27,14 +27,14 @@ _Feb. 22, 2015_ — [Diff](https://github.com/jashkenas/underscore/compare/1.8.1
 
 ## 1.8.1
 
-_Feb. 19, 2015_ — [Diff](https://github.com/jashkenas/underscore/compare/1.8.0...1.8.1) — [Docs](https://cdn.rawgit.com/jashkenas/underscore/1.8.1/index.html)
+_2015-02-19_ — [Diff](https://github.com/jashkenas/underscore/compare/1.8.0...1.8.1) — [Docs](https://cdn.rawgit.com/jashkenas/underscore/1.8.1/index.html)
 
 * Fixes/changes some old-Internet Explorer and related edge case behavior. Test your app with Underscore 1.8.1 in an old IE and let us know how it's doing...
 * [修复] 尝试修复某些旧版 IE 在某些边缘情况下的行为。请在旧版 IE 下用 Underscore 1.8.1 来测试你的应用，然后向我们反馈实际运行结果……
 
 ## 1.8.0
 
-_Feb. 19, 2015_ — [Diff](https://github.com/jashkenas/underscore/compare/1.7.0...1.8.0) — [Docs](https://cdn.rawgit.com/jashkenas/underscore/1.8.0/index.html)
+_2015-02-19_ — [Diff](https://github.com/jashkenas/underscore/compare/1.7.0...1.8.0) — [Docs](https://cdn.rawgit.com/jashkenas/underscore/1.8.0/index.html)
 
 * Added `_.mapObject`, which is similar to `_.map`, but just for the values in your object. (A real crowd pleaser.)
 * [新增] 增加了 `_.mapObject`，它与 `_.map` 类似，但它用于处理对象中的值。（众望所归有木有？）
@@ -63,7 +63,7 @@ _Feb. 19, 2015_ — [Diff](https://github.com/jashkenas/underscore/compare/1.7.0
 
 ## 1.7.0
 
-_August 26, 2014_ — [Diff](https://github.com/jashkenas/underscore/compare/1.6.0...1.7.0) — [Docs](https://cdn.rawgit.com/jashkenas/underscore/1.7.0/index.html)
+_2014-08-26_ — [Diff](https://github.com/jashkenas/underscore/compare/1.6.0...1.7.0) — [Docs](https://cdn.rawgit.com/jashkenas/underscore/1.7.0/index.html)
 
 * For consistency and speed across browsers, Underscore now ignores native array methods for `forEach`, `map`, `reduce`, `reduceRight`, `filter`, `every`, `some`, `indexOf`, and `lastIndexOf`. "Sparse" arrays are officially dead in Underscore.
 * [变更] [增强] 出于跨浏览器的一致性和性能考虑，Underscore 现在在实现 `forEach`、`map`、`reduce`、`reduceRight`、`filter`、`every`、`some`、`indexOf` 和 `lastIndexOf` 等方法时会忽略原生的数组方法。“稀疏” 数组在 Underscore 中已经正式灭亡。
@@ -108,7 +108,7 @@ _August 26, 2014_ — [Diff](https://github.com/jashkenas/underscore/compare/1.6
 
 ## 1.6.0
 
-_February 10, 2014_ — [Diff](https://github.com/jashkenas/underscore/compare/1.5.2...1.6.0) — [Docs](https://cdn.rawgit.com/jashkenas/underscore/1.6.0/index.html)
+_2014-02-10_ — [Diff](https://github.com/jashkenas/underscore/compare/1.5.2...1.6.0) — [Docs](https://cdn.rawgit.com/jashkenas/underscore/1.6.0/index.html)
 
 * Underscore now registers itself for AMD (Require.js), Bower and Component, as well as being a CommonJS module and a regular (Java)Script. An ugliness, but perhaps a necessary one.
 * Added `_.partition`, a way to split a collection into two lists of results — those that pass and those that fail a particular predicate.
